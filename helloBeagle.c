@@ -28,5 +28,7 @@ int main(int argc, char **argv)
   printf("Mike Fuson was here\n");
   printf("-->Dan Bennett<--\n");
   printf("This is Tommy\n");
+  printf("This is Tommy on Asus\n");
+
   return 0;
 }
